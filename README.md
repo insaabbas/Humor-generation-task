@@ -1,5 +1,9 @@
-#  Humor Generation System – SemEval 2026 Submission
 
+<p align="center">
+  <img src="img.png" alt="Humor Generation Logo" width="300"/>
+</p>
+
+<h1 align="center">Humor Generation System – SemEval 2026 Submission</h1>
 This repository contains the dataset, preprocessing pipeline, training implementation, and evaluation details for our participation in **SemEval 2026 – Humor Generation Task**.
 
 The system is designed to generate creative, logically coherent, and instruction-compliant jokes using a structured output format.
